@@ -61,7 +61,6 @@ Through this project, I learned how to build a full database-driven web applicat
 ## Future Improvements
 
 * Better image matching
-* Email notifications
-* Stronger claim verification
+* Functional email notifications
 * More detailed admin analytics
 * Expanded school implementation options
